@@ -1,5 +1,4 @@
-# code-along
-
+# first vuejs project
 > A Vue.js project
 
 ## Build Setup
